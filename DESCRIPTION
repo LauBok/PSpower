@@ -1,7 +1,7 @@
 Package: PSpower
 Type: Package
 Title: Sample Size Calculation for Propensity Score Analysis
-Version: 0.1.0
+Version: 0.1.1
 Authors@R: 
   c(
     person('Bo', 'Liu', role = c('aut', 'cre'), email = 'bl226@duke.edu'),
@@ -11,7 +11,7 @@ Authors@R:
 Maintainer: Bo Liu <bl226@duke.edu>
 Description: Sample size calculations in causal inference with observational data are increasingly desired. This package is a tool to calculate sample size under prespecified power with minimal summary quantities needed.
 Depends: ggplot2
-License: GPL-3
+License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 7.3.2

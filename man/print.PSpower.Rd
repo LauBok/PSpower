@@ -11,6 +11,9 @@
 
 \item{...}{ignored}
 }
+\value{
+no return value; called for side effect to output a string
+}
 \description{
 Prints PSpower object
 }
